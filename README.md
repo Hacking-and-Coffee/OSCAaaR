@@ -11,9 +11,9 @@ single door. Long term a network of controllers will allow for implementation of
 cheaper solution than traditional PIV smart cards.
 
 ## Prior Work
-### We stand on the shoulders of Giants.
+#### We stand on the shoulders of Giants.
 This project is dependent on the work done by the GPG team, and the implementation of Pretty Good Privacy (PGP). The Free Software Foundation has also 
-provided excellent documentation for these smart cardss, allowinng for us to work towards a streamlined system anyone can use.
+provided excellent documentation for these smart cards, allowing for us to work towards a streamlined system anyone can use.
 
 ## License
 This project is under the MIT license, which can be found in the root of the repository.
